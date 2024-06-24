@@ -1,4 +1,4 @@
-# Project 1: End-to-End Pipeline to Classfiy News Articles
+# Project 1: Data Representations and Clustering
 
 In this project, we explore the concepts of feature extraction and clustering together. The project is split into 3 parts as described below:
 - Part 1 - Clustering on Text Data
